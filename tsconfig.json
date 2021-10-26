@@ -1,6 +1,5 @@
 {
     "compilerOptions": {
-        "include": ["**/*"],
         "baseUrl": ".",
         "target": "esnext",
         "module": "esnext",
